@@ -20,7 +20,6 @@ public class first {
 
         int q = scanner.nextInt();
 
-        // Process the queries
         for (int i = 0; i < q; i++) {
             int x = scanner.nextInt();
             int y = scanner.nextInt();
